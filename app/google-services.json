@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371443372406",
+    "firebase_url": "https://quotes-11b16.firebaseio.com",
+    "project_id": "quotes-11b16",
+    "storage_bucket": "quotes-11b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371443372406:android:9a95a6226e5ab838",
+        "android_client_info": {
+          "package_name": "com.techset.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371443372406-g3b4nemll1h2ni810dk5j4cao6ub39bg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techset.quotes",
+            "certificate_hash": "3b784bc5352ce1df106203a20d9584e45689c769"
+          }
+        },
+        {
+          "client_id": "371443372406-d4pefid63f8m19l9dtpgcg83g55ktpv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNQPVi5KE1IeTtxXdnbDg37okUiWGqmas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371443372406-d4pefid63f8m19l9dtpgcg83g55ktpv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
